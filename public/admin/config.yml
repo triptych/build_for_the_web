@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: main
+  branch: master
 publish_mode: editorial_workflow
 local_backend: true #allows you to mess with your cms locally
 media_folder: "public/images/uploads" # Media files will be stored in the repo under public/images/uploads
