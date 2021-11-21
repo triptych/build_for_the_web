@@ -51,3 +51,8 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://github.com/snowpackjs/astro) or jump into our [Discord server](https://astro.build/chat).
+
+
+```
+to run proxy for netlify cms: npx netlify-cms-proxy-server
+```
